@@ -1,2 +1,2 @@
-# CS489
-Course materials for CS489 -- Analysis and Presentation
+# CS405
+Course materials for CS405 -- Analysis and Presentation
